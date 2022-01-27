@@ -13,6 +13,9 @@ body {
 
 
 #content a {
-    color: lime;
     text-decoration: none;
+}
+#content {
+
+    color: black;
 }
