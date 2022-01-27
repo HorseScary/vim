@@ -3,6 +3,6 @@ function sleep(ms) { //thanks stackoverflow
 }
 
 async function reveal() {
-    await sleep(30000)
+    await sleep(60000)
     document.getElementById("content").innerHTML = `<a href="end.html">The End</a>`
 }
