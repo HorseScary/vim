@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+}
+
+.binary {
+    width: 60vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#content a {
+    color: lime;
+    text-decoration: none;
+}
